@@ -667,8 +667,8 @@ a.btn:active {
 }
 
 .form textarea {
-  max-width: 55.5rem;
-  height: 16rem;
+  width: 100%;
+  resize: vertical;
   margin-bottom: 3rem;
 }
 
